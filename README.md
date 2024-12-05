@@ -27,7 +27,7 @@ https://api-ecom.up.railway.app//swagger-ui/index.html#/
 - Axios
 
 ## Schema Table
-![ER_diagram](https://github.com/Vivekgupta96/eCommerce-Application/assets/119284680/3bd9f9b8-29a8-42fe-93fd-daa931d46c70)
+
 
 ## Features
 
@@ -45,42 +45,13 @@ To get started with this project, you will need to have the following installed 
 - JDK 17+
 - Maven 3+
 
-## Installation & Run
-To install this application, run the following commands:
-
-### Clone the project repository:
-```bash
-git clone https://github.com/Vivekgupta96/eCommerce-Application.git
-```
-### Navigate to the project directory:
-```
-cd eCommerce-Application
-
 ```
 
-This will get a copy of the project installed locally. To configure all of its dependencies and start each app, follow the instructions below.
 
-### Configure Database
 
-Once MySQL is installed you must configure a username and password. By default the user and password should be `root` . If not, you must configure in the file `application.configure` located in the path `src/main/resources/`.
+``
 
-In the file `application.configure` you must edit the parameters `spring.datasource.username` and `spring.datasource.password` with the values you defined.
 
-```
-    server.port=8080
-
-    spring.datasource.url=jdbc:mysql://localhost:3306/Ecomdb
-    spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
-    spring.datasource.username=SQLUsername(i.e=root)
-    spring.datasource.password=SQLUserPassword(i.e=root)
-
-```
-
-## Build and run the Spring Boot application using CMD
-```
-mvnw spring-boot:run
-```
-```
 
 
 ## API Root Endpoint with Swagger Documentation
