@@ -4,6 +4,10 @@ LOGIN PAGE
 Register page
 
 ![register page](https://github.com/user-attachments/assets/9e29e74e-8d31-4ff2-b8cb-dbcf64ee8afb)
+
+profile
+![profile](https://github.com/user-attachments/assets/56b066b8-e712-4ca9-a9eb-53d1bd29e0ef)
+
 view all cusstmomers
 
 ![view all customers](https://github.com/user-attachments/assets/9591cf6e-8cf9-4a64-8bf9-25511c169bb8)
@@ -19,6 +23,24 @@ admin page
 add product
 
 ![add product](https://github.com/user-attachments/assets/246c37cd-117b-4021-afd1-4c6ac719156e)
+
+products added
+
+![all products](https://github.com/user-attachments/assets/e9d1f1a6-3fb8-4557-bb89-d614342abc0d)
+order page
+
+![order](https://github.com/user-attachments/assets/edfb5ea1-ad41-4bf2-8d5f-0021b3e5c6ce)
+orderd product
+![arder product](https://github.com/user-attachments/assets/4a023c4e-c61a-49c5-ab8b-d471bd4d1cc1)
+payment
+
+![payment](https://github.com/user-attachments/assets/4b985314-8d7b-471e-beda-6d0dedf8ee2e)
+
+search
+![search](https://github.com/user-attachments/assets/23023774-3438-43fa-b5ec-05b9949b44e7)
+
+
+
 
 
 
